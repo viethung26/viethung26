@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="" alt="👋 Hi there! I'm Ken" title="👋 Hi there! I'm Ken"/>
-
 <div align="justify">
  
 <a href="https://www.instagram.com/v.hung__/">
@@ -41,9 +39,8 @@ welcome to my GitHub Page. I am Ken!.
 
 </p>
 
-## My favorite tools and technologies ⚙️ 
+## My technologies ⚙️ 
 
-> Tools and technologies that I have worked with and am interested in
 
 <table>
   <tr>
@@ -59,12 +56,12 @@ welcome to my GitHub Page. I am Ken!.
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
       <br>Github
