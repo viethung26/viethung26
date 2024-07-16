@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div> 
 <p></p>
 <p align="justify"> 
-welcome to my GitHub Page. I am Ken!.
+welcome to my GitHub Page. I am Ken!
 
 </p>
 
@@ -88,7 +88,7 @@ welcome to my GitHub Page. I am Ken!.
   <summary>Activity Graph 📈</summary>
   <br/>
  
-<a href="https://github.com/viethung26/github-readme-activity-graph"><img alt="Ken's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=viethung26&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+<a href="https://github.com/viethung26/github-readme-activity-graph"><img alt="Ken's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=viethung26&hide_border=true&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
 </details>
 
 <details>
